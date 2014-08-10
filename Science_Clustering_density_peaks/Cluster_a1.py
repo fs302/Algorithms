@@ -30,7 +30,7 @@ def drawDecisionGraph(pl,rho, delta):
 
 def Cluster():
     #=========Load Data=========
-    InputFileName = "Aggregation"
+    InputFileName = "a1"
     OutputFileName = InputFileName + "_out"
     suffix = ".txt"
 
@@ -40,7 +40,7 @@ def Cluster():
     points = []
     for line in Fin.readlines():
         data = line.split()
-        if len(data)==3:
+        if len(data)==2:
             a = float(data[0])
             b = float(data[1])
             points.append((a,b))

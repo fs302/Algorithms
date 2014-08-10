@@ -30,7 +30,7 @@ def drawDecisionGraph(pl,rho, delta):
 
 def Cluster():
     #=========Load Data=========
-    InputFileName = "Aggregation"
+    InputFileName = "flame"
     OutputFileName = InputFileName + "_out"
     suffix = ".txt"
 
