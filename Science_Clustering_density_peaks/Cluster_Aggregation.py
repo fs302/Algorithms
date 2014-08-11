@@ -20,13 +20,17 @@ def ChooseDc(dc_percent,points,dis,distance):
     dis.sort()
     return dis[int(avgNeighbourNum*len(points)*2)]
 
-def drawOriginGraph(pl,points):
+def drawOriginGraph(pl,points,cl,colorNum):
     x = [xx for (xx,yy) in points]
     y = [yy for (xx,yy) in points]
-    pl.plot(x,y,'bo')
+    cm = pl.get_cmap("RdYlGn")
+    for i in range(len(points)):
+        pl.plot(x[i],y[i],'o',color=cm(cl[i]*1.0/colorNum))
 
-def drawDecisionGraph(pl,rho, delta):
-    pl.plot(rho, delta,'go')
+def drawDecisionGraph(pl,rho, delta,cl,colorNum):
+    cm = pl.get_cmap("RdYlGn")
+    for i in range(len(rho)):
+        pl.plot(rho[i], delta[i],'o',color=cm(cl[i]*1.0/colorNum))
 
 def Cluster():
     #=========Load Data=========
@@ -68,21 +72,34 @@ def Cluster():
 
     maxd = dis[-1]
     delta = [maxd for i in range(len(points))]
-    nneigh = [0 for i in range(len(points))]
+    nneigh = [-1 for i in range(len(points))]
     for ii in range(1,len(rho_sorted)):
         for jj in range(0,ii):
             id_p1 = rho_sorted[ii][1] #get point1's id
             id_p2 = rho_sorted[jj][1] #get point2's id
-            if (distance[ii,jj]<delta[id_p1]):
-                delta[id_p1] = distance[ii,jj]
+            if (distance[id_p1,id_p2]<delta[id_p1]):
+                delta[id_p1] = distance[id_p1,id_p2]
                 nneigh[id_p1] = id_p2
+
+    #assignment
+    cl = [-1 for i in range(len(points))]
+    colorNum = 0
+    for ii in range(len(rho_sorted)):
+        id_p = rho_sorted[ii][1]
+        if (cl[id_p] == -1 and delta[id_p]>4.0):
+            cl[id_p] = colorNum
+            colorNum += 1
+        else:
+            if (cl[id_p] == -1 and cl[nneigh[id_p]!=-1]):
+                cl[id_p] = cl[nneigh[id_p]]
+    print(colorNum)
 
     import pylab as pl
     fig1 = pl.figure(1)
     pl.subplot(121)
-    drawOriginGraph(pl,points)
+    drawOriginGraph(pl,points,cl,colorNum)
     pl.subplot(122)
-    drawDecisionGraph(pl,rho,delta)
+    drawDecisionGraph(pl,rho,delta,cl,colorNum)
     pl.show()
 
     for i in range(len(points)):
