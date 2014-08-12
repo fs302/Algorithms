@@ -31,6 +31,8 @@ def drawDecisionGraph(pl,rho, delta,cl,colorNum):
     cm = pl.get_cmap("RdYlGn")
     for i in range(len(rho)):
         pl.plot(rho[i], delta[i],'o',color=cm(cl[i]*1.0/colorNum))
+    pl.xlabel(r'$\rho$')
+    pl.ylabel(r'$\delta$')
 
 def Cluster():
     #=========Load Data=========
