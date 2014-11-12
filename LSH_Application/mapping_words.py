@@ -26,6 +26,6 @@ while line:
 	fileOut.write(str(target[-1])+"\n")
 	line = fileIn.readline()
 
-print "Set Size:",count
+print "Word Set Size:",count
 fileIn.close()
 fileOut.close()

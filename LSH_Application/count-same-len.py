@@ -1,3 +1,5 @@
+# count pairs in the same file, with edit distance <= 1
+
 import sys
 import os
 import time

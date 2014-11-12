@@ -1,3 +1,4 @@
+# count sentences in neighbor files, that is (n,n+1), fit the standard [edit distance <= 1]
 import sys
 import os
 

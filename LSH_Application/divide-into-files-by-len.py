@@ -1,3 +1,4 @@
+# divide sentences into files with each files has the same length of sentences
 import sys
 
 if len(sys.argv)==3:
