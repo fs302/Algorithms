@@ -1,0 +1,523 @@
+data has 4250017 charaters, 125 unique.
+['\x93', ' ', '$', '\xa7', '(', ',', '\xaf', '0', '\xb3', '4', '\xb7', '8', '\xbb', '<', '\xbf', '\xc3', 'D', 'H', 'L', 'P', 'T', '\xd7', 'X', '`', 'd', 'h', 'l', '\xef', 'p', 't', 'x', '\x80', '\x94', '\x98', '\x9c', '\xa0', "'", '\xa8', '+', '/', '3', '\xb4', '7', '\xb8', ';', '\xbc', '?', 'C', '\xc4', 'G', 'K', 'O', 'S', 'W', '[', 'c', 'g', 'k', 'o', 's', 'w', '\x85', '\n', '\x91', '\x95', '\x99', '\x9d', '\xa1', '"', '&', '\xa9', '*', '\xad', '.', '\xb1', '2', '6', '\xb9', ':', '>', 'B', '\xc5', 'F', 'J', 'N', 'R', 'V', 'Z', 'b', 'f', 'j', 'n', 'r', 'v', 'z', '\x82', '\x92', '!', '%', '\xa6', ')', '\xaa', '-', '1', '\xb2', '5', '9', 'A', '\xc2', 'E', 'I', 'M', 'Q', 'U', '\xd6', 'Y', ']', 'a', '\xe2', 'e', 'i', 'm', 'q', 'u', 'y']
+No.0 iteration: �/>fW�4�$�C/e�E�m����!� Z:j�SE+B�h)pU���Tp&`�Z�yH wo]�4�P�5y$Z*nŹ,S�4��Ri[�;`��S0,30�hh$E�NM�Y�P)n��Z/N�cT"�s�(;H6Z/I<�uC���h(Z+m��B�2jUX�i��In%�W�q'Y�StUg*bRvq�z8�N1XF'�P�1%q-�;��I ag
+i!EN&>/&+Y��8
+iteration 0, smooth_loss = 120.707846
+No.1000 iteration: at..e he kilyirgwif forlathwisdet ofdouinslasoulimed cap tyfinfws e omu yiHte hy mu kombenkeneed woualtme oinr thatirldonmaniwoeet erarernpemee oaintellw ooresHgk murme lemeredeet BC tiolf. oo anme ti
+iteration 1000, smooth_loss = 88.602139
+No.2000 iteration: o surar- tor comlherat thas it in 
+Nameg ay tho f ho Bt
+ lot falge heuc the cointe Se silcand, forink ourouk than por the -ros -s ald the doppeands r- ame yor, cet. obtey se boste cedd, fon crr As oud
+iteration 2000, smooth_loss = 71.375246
+No.3000 iteration: nturice theurt thes sin on dey -nd suwis et ichor and ascwiretiatsang to vins on binn suln br ins bn gn inegruuj s tharestoag boseesn and-. ensub Rure hupt on ink onatils pfobp "Ad ir host gor cavend 
+iteration 3000, smooth_loss = 63.565170
+No.4000 iteration: rp oure. So en a lus aguratatibd th to whenve, fuil're, of heos bo ounal t id thetilg frina ame geod ave fils ctantas acred rlatend pur, the farriro hive awougiviag of hed eam -- loy the an yo fof fun
+iteration 4000, smooth_loss = 59.320649
+No.5000 iteration: filowiande sio.
+
+Tn hanerisrewt decetembeme're ros in Sricoy elaede. Ifimecs te prihe't dede ormaresleallsecsee ceme cevhiveed wolimerfurer. Af er. The onbe omcave ariuw. ISingact whib ouplowiod to me
+iteration 5000, smooth_loss = 56.219527
+No.6000 iteration: Briprabsedennlinoburist caud, thrs shat dad urlley fallghaf ondantliwhababt hewuuttared haeatemat thas Dnow thore biverryend asiread op that shas mine; to shind end in wis whoucthat msthere ftaldot an
+iteration 6000, smooth_loss = 55.813441
+No.7000 iteration: that to che prellppen the oneptomeate t' betine as rusecide insain allerictots-tiegose's then falvn ip eftanithing the Is and wady on wititants, the matat as it that cillitact fsingadls a thomale pust
+iteration 7000, smooth_loss = 55.020087
+No.8000 iteration: ere thyt comas and gaefoit to the essese fer ane sthit. Fil can wofugny ntans ive ligih ressed to ara in wereyy Care teamits thakepes at are Stout pale one fou Nwangsed feare anstins wey, the wispree 
+iteration 8000, smooth_loss = 54.484939
+No.9000 iteration: a. I  dely nst sivie to fordenen the ifgos ar and the Gold as danss ines the aritisat.  fospfurmare siResed tios, eas in sederiny to noplestoorichy theld divere and the edernmerte es0 at orporr chore 
+iteration 9000, smooth_loss = 53.486717
+No.10000 iteration:  fate thate sto of cace -- are dore tammionly axpme wiil en I offorat wite affile all, foas mill tion sesterdackerforanistortnbtim shores oor- polllicy'uk werkisgitu nes hosld in meinad es singention,
+iteration 10000, smooth_loss = 52.518296
+No.11000 iteration: n you ro Ind stouns my nomyin, tousisfoncy away pore yiur so tantonst sed uf: The the wiok thaven; ran it tame tJe locsang en and es, And frrmors pry liverpree. 
+
+
+
+Worat raleiricponow ozes on if orme
+iteration 11000, smooth_loss = 53.080336
+No.12000 iteration: am meel gomish to Gaca gentemion, incacsridgy it pasparce and hotu.
+
+And wisod of tay'n we on on Aquissinnside to leliat, to ess a menpine wan we why the mome when wime arsarpses. frann dorranits hond
+iteration 12000, smooth_loss = 52.414748
+No.13000 iteration: the to vor jlal hing fer fealion bas lome ns a  Igety merd whes re in ef as that aI sear yos kno tim on los atrect care acmem atred be mo wo so nit fer fere recy bout, to and coverifiter, that to abry
+iteration 13000, smooth_loss = 51.286663
+No.14000 iteration:  the Rund-e lesuigion on os that dethoun oundenti serhich insoqundtoeetithed arch ay that you that could ond prsentes they --0 a is if on0 le have -- iuplo in ontile prollt o1 suble and we be beagrise
+iteration 14000, smooth_loss = 50.999175
+No.15000 iteration: that or and te ill andanterity how that more wall thone herumisimiperimion ng the manitate of ure I world f1at mith our stred cloptaltherate new that'sveat of ame wiuts our ts to of our ffirtae, frout
+iteration 15000, smooth_loss = 50.447142
+No.16000 iteration: to danked Ind for I otres have the ving to cons Ame cher. Ir – ead.
+2ged �s Jos way our, hluthorod be there ist on ose re,. The maq lolsten �u heqpobs traopor –, �gr. Th� we hes� dum � hut gnou
+iteration 16000, smooth_loss = 50.444930
+No.17000 iteration: o hipprate indanten spath a rallids a lows ano have prente igh and avery and est limneltr engorn.  I  I lit, or on oft mispelt cones.  Kurd lezor rece cat and sthay batso. That who y And entablion wal
+iteration 17000, smooth_loss = 50.092320
+No.18000 iteration: ame inmere jutaldhuns.
+
+An Lay ffich doble to lote comshn Mut sprelth whin miklich on par that ssho can oppell fanl coupe al fering is refat'bles.
+
+Thos it as oull, to 2mat ammoppll is o to feruthtom 
+iteration 18000, smooth_loss = 49.903324
+No.19000 iteration: neticonivering that wores wilk: nangitits taver, And of il mile.  The part netuod to must ecupatili, boctgraplenn forvamcey, foul reoupmer tany brigis villces wersond we acesty mougen lacater and shat
+iteration 19000, smooth_loss = 49.384770
+No.20000 iteration: and of 1la't a buicd botaze are a ill an of to Kevife Into ment of mecintiuin Stice beame tioe allacads eavalion to a Eimiayiviars, illateding wionerenitinatily in be neir shalgy semetionm a suviest o
+iteration 20000, smooth_loss = 49.531064
+No.21000 iteration: of Preced of howbre if bebne, we'lisnyon dace whiaq as pryep mece yeorr to jense a huwid onetore, our with as thes eopie and be yeird Pevelather is I fol worrt intint. Falke colleas a tostornt inforis
+iteration 21000, smooth_loss = 49.786958
+No.22000 iteration:  in youksgony rothurd adnepemerey deators we hout to coge. We coustonsageece count to and some more then gonstooguattile on thes we our sthealtr rara.
+
+Netrezen ut adgerr to montams and lome gongesser
+iteration 22000, smooth_loss = 49.361307
+No.23000 iteration: ied sster lomresef as failon crads hnormo noon ur whie dongion and and recraom, this tores can the Conge me the count yeirity Juslak Comieg new Duwlr proms Preve proept.
+
+Now the gare the pards ations
+iteration 23000, smooth_loss = 49.463734
+No.24000 iteration: orach the Unos sabricededds demo recarcomy geon and cand beconstanething the lige.
+
+
+fristomind the thet -- and noballhon. To talldicet wouts neipty tre un nadiset and to dust onto [trogly and the son
+iteration 24000, smooth_loss = 48.816954
+No.25000 iteration: stunch by murp obt onlit I'n wsefsidh an proftife to nat oveet Mo wo hite gthing fail ius whatt sustar Bvent Unatable trmece and bewt Mfat peon, thes and up be but ack ald. rerest bighsed to atatican 
+iteration 25000, smooth_loss = 49.217576
+No.26000 iteration: n hos ash sty thomid herd to abon strest cene a fraatn thouner of on ate igars for thes ths thit our the patcarks a feim that S thder me our y1ut the closfion the nores that all on whot, ne lages have
+iteration 26000, smooth_loss = 48.850752
+No.27000 iteration: nans. Wate thag you to and the wastiytute al enone ty the for Haykn the deiny the a tuse verios they's usimiagy tiest Jendilgees in sildich meaity our count their fit's to whipe take, and Ilaith.
+
+The
+iteration 27000, smooth_loss = 48.461774
+No.28000 iteration: d more a juplendertret and it and foun the hea's fildstide jusd flo prople will wan whand at on an or and cand whisk to fite ere seace and heids -- that st uosentant onowed the sofper Thathin we lno t
+iteration 28000, smooth_loss = 47.862455
+No.29000 iteration: dica. He woasding capander. And mise bewe chil and and se our we ingeed we with as.
+
+Iolers. And we our lict caule trest is to we nded. Tue mense aods in that widesc. In of gram in that out that. Glig
+iteration 29000, smooth_loss = 46.749743
+No.30000 iteration: e are spelidy, and wheaved to they worny trabery ba Unot con to us if as duthita, govire. We shen acwand bro ked we lishertryer way arr ho shoues wall con. They dist and mereed a row it a loty tre rei
+iteration 30000, smooth_loss = 47.781544
+No.31000 iteration: vibyt I thateat he woovee, to yof head to dodss hints will lendith a- to ali. Anstooft penglen urk, our hake wece stove the tolad womect tnept endrran of of and plaess sppais we know tam greing thoso 
+iteration 31000, smooth_loss = 47.583352
+No.32000 iteration: re to so w, Pregu. Anderilion. This mancave cave the heres tracval of Amiring reca tove is whin poanichid to domigy the foalle we berew the that -0 Aplat etions, shas for in tt naunt. And maatire that
+iteration 32000, smooth_loss = 48.620483
+No.33000 iteration: uy [for $cemickiding fids Juce ithy caqe a demerd pliny frett of evers blope at neaceres ul the seople anbirlicsell and trested that't pforming migide treving is and mindwor tow gayed-ting so are popt
+iteration 33000, smooth_loss = 49.199612
+No.34000 iteration: colaun ne ane the hu this compones, op langed on the Mo Docedres.
+
+You ece ammoc as -- bet nition ay than dabiegn boman I tolition wollenn, some domas plare the becle to buar nound hittat of a cees to
+iteration 34000, smooth_loss = 49.108663
+No.35000 iteration: ctiegevees the byon --we ug from, prrplexply the a bineand Soenn wouct and lece protorihol Ire Resity the wancall our as on leride here.
+
+Both whe haverred mevesmmenimit and the Pationandestily comode
+iteration 35000, smooth_loss = 48.471646
+No.36000 iteration: ll pew I taur.
+
+But me counderice.  Atila, all most I tou to in that So Mwes it this thes for their and stanuttorn a their the Unateg indund’s harl is my thankaed weite gomed kneistora that, kive, w
+iteration 36000, smooth_loss = 47.720517
+No.37000 iteration: e werns that South freer, ramid in the peard wedsmenneurtunts payed the licteat ara.  That nevert offive the pluspnot’t peast thouve wull, -- into thereer, suradn the Everimtioned, theom and aro we 
+iteration 37000, smooth_loss = 47.501727
+No.38000 iteration:  buved this cromd cold on t weryed is and murdemb treas pungome dereete ipdilite fermern woruspost mull we loot, or andy -- Aseriep thate state 11 Must.  6hat to tay un ttan gomato.  Son Jrvery this�
+iteration 38000, smooth_loss = 46.938016
+No.39000 iteration: fionerity the shorestion.
+
+Hake, eress sutann to and ferelizering people yeashers no nowarder to peo neal cate mo nean the pormester  hay hove pasion. our cat dithence oul sant frrmaly evending Amelin
+iteration 39000, smooth_loss = 47.987581
+No.40000 iteration: itien ktowaly.  We kat stall the bin sisick to poplaqustay canmong and we Bincicaq and we Illauge to indever ansare and inme ho as borlissact cetise new creble roadion bomored to nag Qent Mingeest in 
+iteration 40000, smooth_loss = 48.550794
+No.41000 iteration: us we seal thake a I suritat he demond hing do lo the here and theou sfors they of Oea we whe lace theok and fiturions, list. frict, whame not wamed we ring when I why vut iollicatedds ipfoffrace the 
+iteration 41000, smooth_loss = 48.044788
+No.42000 iteration:  of -- is a deorlity toed beca.  Efind.  Botizels of becoftew amaning sulpes they a Soute of.
+
+You do lied.  An, Secuores of sfor. , vithed farraveng -- I’stall -- has roll.  Overise a thomk a rid o
+iteration 42000, smooth_loss = 47.234758
+No.43000 iteration: e gio touyt.
+
+We’s we’s -- of endups, ond the iserm frer’s with anginy, staen on thoy you’s that’ud wake ancthen and conts.  And shansiricery indeffe the to Indurgs the A)dirs n� I7 the on t
+iteration 43000, smooth_loss = 46.980907
+No.44000 iteration: oratite that groured tound yeughes bly.  Yountes as Amble to s0 you couns, fary of you shan farulite.  That yoves fisk the Couss.  And bying your whith to stive you can agy inwirh wy ssern fathery sic
+iteration 44000, smooth_loss = 47.114875
+No.45000 iteration: gouss, year jut keef we hack have onfore our a tay plimblen-tryor.  Bun feot acts everitirn it we wird waydod for by catishory we.  And wher in luke comeced up the're our Mpit’m in indullite.  Where
+iteration 45000, smooth_loss = 46.636636
+No.46000 iteration:  the lochanhed that peding we wird those pensente, ogen in our recustres keonsiat the our than the cadeicanemons mugl s shepple whe’ve that ond us I’ve watchermed the restry and remonde 1reip ceth
+iteration 46000, smooth_loss = 46.198053
+No.47000 iteration: bust in act workghy thome ro but sander is griod. Thein road be that it serens Wofe neat sidntion an time affes treal end Amere as or toopsed and ffor stor tho govery, not the and jois, neare a so wit
+iteration 47000, smooth_loss = 46.902506
+No.48000 iteration: g the sammsint Is goecen taked semers. Ore all and acldslingtinisfnoks.
+
+So a susperting andinst of tragite Balaterlht tedht Hisal joal a lamet billing the spevionesss thas pusure an toiensoraly.  Tha
+iteration 48000, smooth_loss = 48.722025
+No.49000 iteration: f the retlingry Tho tome count the great”t pro.
+
+The porst have phany. wit we have the Demorderst thatili:  Low as wome trrevily are reets worpio domel the beitien ur preshil the loinge gam oviakmen
+iteration 49000, smooth_loss = 48.278766
+No.50000 iteration: ners, fosh ntendien ond wistoden tiles hatior for possien io in tre hand fereal here one irtak yat’sl about ellenf the sonsiolehy the lish fastedien pospors fouselerreal of the put hish sentrls dlat
+iteration 50000, smooth_loss = 47.425868
+No.51000 iteration: ll from --y we adsoralgs on and campusters now shach is anfiged about to thane frarg-.  These sechores.  Nowdaution bas.  And the firs ghe peodica, are pront.
+
+So of pront -Cingel by ferion.  For inli
+iteration 51000, smooth_loss = 47.055303
+No.52000 iteration: ommons than, that duathamentump fores glead Atere.  At the soter and topeds ove.  Tadie.  We’sk the Uny sthenming to not provies our brst your we’s the wel, cevery renillid.  They do manithed in t
+iteration 52000, smooth_loss = 46.750608
+No.53000 iteration: ed the divione we when you seove dettniti in Ametion Qoble. Atel vion prosher -- takedt fecustiblintinghl and the gomber the verred the recores we ruons will even as eany serogns stance rexble fide.  
+iteration 53000, smooth_loss = 45.814293
+No.54000 iteration: tite’ defiring them Jighive in soverlted y-ud wis Roway. Tul pots will ppemy toake as ann gemel a for wanbed coRve.  That who way anssalseld thear Parling a vistaw be the were actirgy this to a has 
+iteration 54000, smooth_loss = 45.311948
+No.55000 iteration:  n0 the 2for and wampayed ever the rearsis. In that whot ur ingred whanger seid healle deceens Louts, were with the retile they'm thiandouge teeperses the U-ited and they yeeder, pirserry toicturs loe
+iteration 55000, smooth_loss = 45.645800
+No.56000 iteration:  ham: the goey our whith. The moding adstite farissing tume my in mameney bast of I’ve sumitisy. Bat uncelonmests biknon leve $nofonsedmers younhing itreks hild. Youch.
+
+I now iticas are goarsw, and
+iteration 56000, smooth_loss = 46.357990
+No.57000 iteration: nce thoout to theme our to In Abe staskels it with have for fany, pro cation as insul lamary, we Wast Suat iplemacation, As."
+Offive.  We can't best for0 faice faten, Misveomder an now ithertianchstat
+iteration 57000, smooth_loss = 46.580095
+No.58000 iteration: indrnenting rigady the rien t the prest payern tich to neion, of greas feal proct Roante as)t atale is by not it we's a farved that to cal fers as that thehe bo il payes ut peok itrgy hace is arghees 
+iteration 58000, smooth_loss = 46.730564
+No.59000 iteration: ise oollem: We stame surhaply roels thank fall dual our and ive also, that agly our who ligel doplat. Whictitunt to andyon take domistriveft migaballing tile in ts our of Amerivery, trong, fing expaye
+iteration 59000, smooth_loss = 46.136053
+No.60000 iteration:  mave our cornatice and the faid one reolare porduve itmonn had lomenerle.  Neas bitent, tle dedriting that aten, to just and to hiscan stelde is sogrourd ere yor ale ansution Basts.  Yor.  Inthouist 
+iteration 60000, smooth_loss = 46.596918
+No.61000 iteration: g unfuctsier, a to funconve panding oug and frables for to that'ald, to alvint, attrant to batals notine lit of fores inapating and ark it Atoutn that in terabingly.  Uncan paritidy, Himmifith achleis
+iteration 61000, smooth_loss = 47.094279
+No.62000 iteration: on, mace our all wabe pean-. I licomom,.
+
+Thailm. And queshave joblicy tourdandingec. we's does aid on, mays some lodave sendeden-tariury mocks and with should tienice so jignonk. I dick that a lin of
+iteration 62000, smooth_loss = 47.046648
+No.63000 iteration: t one Amerey it whac oftim yeare foacedn fious haveperted we, who ot roizen. Reeds necupligs our fac's whhe whesbaky that detices head, all decredrick orgraem, Preed of wiltcenting in the sented econe
+iteration 63000, smooth_loss = 47.228994
+No.64000 iteration: ounal. And be our workdob rooglce our net of whish one in a to emerical whand. Tur that ictieng sat and in or idtion. Then nowly the recueve. And our were. Heging that micen. Ameat the swaived teaule 
+iteration 64000, smooth_loss = 46.653259
+No.65000 iteration: cy 20, It this orgituet lith actisel and Amerisit. Alvuratyed spodrencarnen-.
+
+And thew hears:  I our froghn ham whild -A the hark Stint on bynonyca sulto worl gennow tore remronaun here up has our th
+iteration 65000, smooth_loss = 45.680021
+No.66000 iteration: 
+And elves Prestor from. EN prost magle tgrating of pars po we chord soment and to feokeral of yor coused -- who we's ishact can plave they is sedneve for the have threr evellinatied.  Hichers; for a 
+iteration 66000, smooth_loss = 45.485627
+No.67000 iteration: s dgince.  It's my cauly puity fish our sy tides.  I a helitace ssides of up misers it Itin -- --.  Wes as mikes, constreas, and wits als the can able seciind to worrcis eviating peting gome suestim i
+iteration 67000, smooth_loss = 45.068473
+No.68000 iteration:  Af, 10 heein alloming of whore, pars chiller, re.  Weme nouts wrolatingreance s1 in where more a mitgan hack hasearcy menfirice hoderr buirled mosed of mast wiluts your imssulince ment end shas’t h
+iteration 68000, smooth_loss = 45.659181
+No.69000 iteration: actested uncede camputicns owy ineres handuen thramion stanew we dettent ind in coust, whike we’y’s on chardies lecorac inlictucs, wall and achure ake stild to they her?  Pleagn.  Yeid, with and o
+iteration 69000, smooth_loss = 46.712378
+No.70000 iteration: ffos that and of the America sage.  Unaking Kever and in awowle outhen in coop efore day becansen arn to’s thag the lose that’uding the oneriding the specioun all my goone tumes sigciekec stay, me
+iteration 70000, smooth_loss = 45.191532
+No.71000 iteration: ars enes, groele to thalih 161, the not Path about "regan yat meare seiren yeessed of alnows paycures I gecudey to exinged goes of of goate yaplens, will be uncure diunel, our and about idsinnevifidin
+iteration 71000, smooth_loss = 45.842424
+No.72000 iteration: with a orgune you’t to thal laman whakenom frond assec; ots potiirs cheantial were to of to the werean and to manders, bes fangesc the weran foh insectufpen’t anding eveas Poven of froking comsenf
+iteration 72000, smooth_loss = 45.941597
+No.73000 iteration:  Ireanfiny creem. And your, and suing as wascages and cast itsear, an, briks with tepponge mone;, affigiliinst a mawia. 
+
+
+
+
+
+We prigess bust ansoway mangean as, Soop ravat
+I. confussist as everlictat
+iteration 73000, smooth_loss = 45.380124
+No.74000 iteration:  mettencounet will was that’s wore sheven breagly the cation st leadty. Thas a toont has meol in that to migratos. Mo’re urmake butgrourth wermer, Norens will oub histling in charest cvilaged that
+iteration 74000, smooth_loss = 45.067145
+No.75000 iteration: the uppleas to to todent. The penims, drean tovencen comke to the cas and agrealt white.  Net tre netion and to’t we, no loge.  And about -A Wowke wate to be have foct.
+
+In that sto coquble bust’s
+iteration 75000, smooth_loss = 45.051728
+No.76000 iteration: rouder of tre foars-ribithous progr awlying arcu those alagh kilion try the worker the whit heme from wit ous cas afu engt -- oul who ry wo matted was of Midadentsolition didacing houst come in sist o
+iteration 76000, smooth_loss = 45.046768
+No.77000 iteration: har sudpllba, ammomen a sectel the chight, ofticts of the lay creakions foft ords nation to ans the. I've the luc be the of ar low of in Diss a Con a didies ecaune a that streally requith A our divon 
+iteration 77000, smooth_loss = 45.355630
+No.78000 iteration:  yiunaple for walk fore, that and Stan goven, ontter Lromer and ery a Leccise, the chewack to and as in tak fits withiat to itepcis like in doist Lithe crit. Presthen, butlings who gish the pensenfiea
+iteration 78000, smooth_loss = 45.110491
+No.79000 iteration: nted undled hist. As got who joes, xndergharen stounts upines of waokem the'ral nowioner ale ampencan’t not wither make, the toep and inlupadge meshadt.
+
+Were owhith porstenm. It has appeft’s and 
+iteration 79000, smooth_loss = 44.608974
+No.80000 iteration: eieal fou this nateser.  But we suwnione -hat and Rlfamey the revil to unsentility, and a to all -- coeving Computien find. Bringresty, reathings on un emore Amerivighes, nemild finant, our dogh live 
+iteration 80000, smooth_loss = 43.885269
+No.81000 iteration: o I’me the sioder.  And that urgalies fon for uptler’s the glolos iscade that as aycany, repreval forme, ot the knoppeniry. Alds t planos hat have stirs to wire chesition the wherinn. And an insis
+iteration 81000, smooth_loss = 44.823574
+No.82000 iteration: o son recelo�ve the weralle unthid -- mown of Go nougny.  Is.  Whoses orsution thate frew wa jubd, feasthon Exangy noveres and increnave edaticed belbing hosting the of joss Sted bace an that and sern
+iteration 82000, smooth_loss = 44.534577
+No.83000 iteration:  to surcillicancon't Lindring.  Lothor to ur’s our our of andirind iplext pronin juth into haveding kilt; Qrer reponge.  We’ve villitor supplac podsinot dusinseaiti, so vigle strennonsed searl to 
+iteration 83000, smooth_loss = 45.353594
+No.84000 iteration: thattias feaised be them. We was Slone.
+
+
+
+
+That bitat fore we wil banaf the cauld petior in Adered comid on har trlans and thas inaping and cOmar of that ar these apportur an has that of Coren who ha
+iteration 84000, smooth_loss = 46.320589
+No.85000 iteration:  
+I Qachouc be that’s oor a we becoro -- laised jostion tame, thicoricax a reeforecelg It the overal that to naying id have for ise pas natieve the we’ve manitar. That Isvinging othioge to a wolli
+iteration 85000, smooth_loss = 45.647538
+No.86000 iteration: th fove of meare, Rohans, deforal by mailco. Bricanvest on entrivity 9/1B of a leatthing whil we this a lofteviounen. Our refelp of chillurisadisys on the worked trled a the as, fore cay -- the I.
+
+Th
+iteration 86000, smooth_loss = 45.574948
+No.87000 iteration: ty we worsh ithtirize Preglg cornames anoxare meralve this taxpedts bet the rears sivem by when mistomy be of the butlations remearence eves aboal tarions stan whatreating Pelive sacanto ploalst we pe
+iteration 87000, smooth_loss = 45.630047
+No.88000 iteration: ��s tad the swish.  That anot Mhined it all et their just a kint allving wornd in hare will hesens fage -- we’re net nemund the was Amel sollitisnas out about scrurdenverriven crouded you not inelar
+iteration 88000, smooth_loss = 45.973407
+No.89000 iteration: m. And you our fut yout chole Milct temonery, we Defigr America, the knomal them dide allemes an camplo that and Lemertergy alller secumom tice a Nefice conse’ze deforlimm mecturicatay who we cavint
+iteration 89000, smooth_loss = 45.872367
+No.90000 iteration: tare, tr menged the nec've sprane logitiens mo a and and the recugns to tiany. Het make icsair we wyoughie wammangicicantmy, as to efo pantores that clac spericed ure him on the kress thes has for you
+iteration 90000, smooth_loss = 45.812383
+No.91000 iteration: derspect $014 one whine enes in on arsarating exivis. That’s sand.  We hore intiter deverns, by the wike stay’s that put ss prope -- and crong.
+
+Respest with the trows and. my our finpencing $We o
+iteration 91000, smooth_loss = 44.695063
+No.92000 iteration: mmter.  
+Norues finhn’t be kinhn ceal becoment the seress they the cam, where semon’s destess.  That, I cornce filp for peet off, our.  He we’res shore to be oppercal illive alalisped mores that
+iteration 92000, smooth_loss = 44.363649
+No.93000 iteration: ire how in youat that what of the Unime hew reable sowted the somesh fith thone about craludthipstill of Losce the Codmithian as losp of theor worlderdy
+
+
+But To gited.
+
+
+
+Weet failfudtate comather ou
+iteration 93000, smooth_loss = 44.507863
+No.94000 iteration: .  And in sutpoes shanded it counthn lisk.  Le malnan goment.  the make Qader nochess they salve on coalthout’s here to peopred.
+
+Iuced gsedmowigh fol are flant this be gomel.  Lecratmentey the lega
+iteration 94000, smooth_loss = 44.226424
+No.95000 iteration: ubt itho or whece mistary and roce Retreato to Ame Thas Asmeace you groere whach whine Aterary, that can up hue will I’d set condusisang. “We.
+
+We cuillibicboonster I�c0 hegized new ustores, the U
+iteration 95000, smooth_loss = 44.208831
+No.96000 iteration: ronens acan.
+We shil sive tood enaringe just everier of Cevere.  We’re of has hufever isse remontswar, overy.
+
+In to lack mancigit,, and why hudiemed Coust ho denercenn you we winospouy.  We wheses 
+iteration 96000, smooth_loss = 43.720697
+No.97000 iteration: re.  The can molds in this to Iture kerionat we are, the rusity. Our is some comversPanicane is batifr hull thenue faint, and even compthed tura, sem.  The woukty kition ristit ither worker bigy.
+
+Thw
+iteration 97000, smooth_loss = 44.923095
+No.98000 iteration:  cofficultn. And boldiries of thee.  Fit reep.
+
+Our there lixw? And busident people exthing.
+DSt-estouny for their makely've nours niccates a feases, susped; rove the be the tals ssell Stomens, catiou
+iteration 98000, smooth_loss = 44.507674
+No.99000 iteration: g, I kcoding to country il paying come strowation by the oftans we trostaggacking de as counts denot nore to has bingaberral of in itner futuruit bancady for fration in for this bunghiey a rooply aro 
+iteration 99000, smooth_loss = 44.179734
+No.100000 iteration:  be shith the Unatistion nitatme biutthelt take thil utle her iningext thisint, y taycer pre a fit the swoulds beca tevent will, that go moutn you in Now, a youen yeodory.  Allith to thate will the.  
+iteration 100000, smooth_loss = 45.243625
+No.101000 iteration: en our same toust wow gover.
+Munvill, afferiin hil ficht, remore the fution sing secing Sedenfion of hoongaid.  Chere gaven fatess ford hostilies of of and gover neid ureef,  confedll indities decigf,
+iteration 101000, smooth_loss = 44.852717
+No.102000 iteration: can enemer a and the can hembors of State tay are a topent to enent in becoplisica sirnor of thal hosoencer, a roon.  The was alitia thas chich way and pro than’s strong you to the 500Douns in strea
+iteration 102000, smooth_loss = 45.672054
+No.103000 iteration: enled Strong new winthid for we owsE ame warce country'sk buspem timmed I necramel sercatme wither the looves, more be the cansalbated is what the and decagelem.  And unto, Itromal we fistuM, baingnes
+iteration 103000, smooth_loss = 45.436912
+No.104000 iteration:   Flo that buthed that trall -- your a mot shovod ditiey thank exprigng coffulp for the repolford oos bluldess on allderd here dint our our as Sfoul it of us a lives that -- whon, you.  Kinar load Now
+iteration 104000, smooth_loss = 45.527901
+No.105000 iteration: the Presute trong for frlatiem whe;, thatgenvt thise hensicit gecuitituny eppripity air to in butdiplatife of kerions to Americition of cours, the Roest the periline tumel.  Here.
+ond to liff we entty
+iteration 105000, smooth_loss = 45.587366
+No.106000 iteration: o compet to to oun's my Americn, by wealder wilotengizes any aslocies abouting cornaseated for a harkes, to ansthere.  7 Ihilis as suat equ, Amis t’t to to concenting eneary our work porlitionswacei
+iteration 106000, smooth_loss = 44.798272
+No.107000 iteration: evericat to some justen an that’s that coun strepmid Kuckem doing fuvesforte.  I’s trisional wate derectries, whered what we portuiest to merrica resits that to cognurge bi fuge:  Tr becones theme
+iteration 107000, smooth_loss = 45.146684
+No.108000 iteration:  seantsode leid mot to have that noched sauded to blulpertes ity’s a remosporge loon have that.  And prose. 
+
+Ameuderdaysians same that workerch ent mariveres jobs pad the kerw in the dosuribe'll to
+iteration 108000, smooth_loss = 45.183741
+No.109000 iteration: Cgracked wored himautents, and sangenviving,.”
+
+We and over are fagent deparcal and and serulicance cholvents ibing gevent wistionally to seare andpingoging axiny ace knew get hopthive through har i
+iteration 109000, smooth_loss = 44.588006
+No.110000 iteration: that commuters, artiple, tha that but Ispleed the assounstides a moqreng viverger and they I'r the seruman werest those and think if caritate.  Not yeanteal pintues tels.  I’ve therilay Ifreaif gove
+iteration 110000, smooth_loss = 44.189515
+
+No.111000 iteration: e thise hus mepces oN ip that chanigidicate, begantine enferibmed Meet therl andsichiver.  Emsirity.
+
+List we state No
+
+And be our lass teproblicined the Unations oplolisans stant sforr ulion gome all
+iteration 111000, smooth_loss = 43.682664
+No.112000 iteration: d will confivallies, fros idrakistiterroledy. In mave pedslipace handuserres in the onseeven dor our sseet of line take peoplen’s the  country the podcomense one consudgy may oppin2 to dowe jo going
+iteration 112000, smooth_loss = 44.418435
+No.113000 iteration: Chan becan.  And Securl. IS’he idmert that we letrraters abolizanded, who how we haught gefiat coppaistree micleat sustore demust reval.  We can fart.  Wele of countnoued we pasped Cand.
+
+Alsiily to
+iteration 113000, smooth_loss = 44.545247
+No.114000 iteration: af hart the olling for growhy that sheses ot.’se suplicalih thive thas while impolauthy decisorr suring it the we hesely all of renem and guurind I’m I’s do ba rreat forcoest maulen?m muse why w
+iteration 114000, smooth_loss = 43.609514
+No.115000 iteration:  of and put this edded adsyentry for retrea echment the live, now thalach toren that a of sence grtasho toding taxiss, I shanks to the seculices.  Tive natemalissisoassase is weren, crolle.
+ And to op
+iteration 115000, smooth_loss = 43.435658
+No.116000 iteration: ng pore comece to of to aboog.  I let a on pedjoid felves hare had sax kerice, I for that ancheas courerria leat a bather a gotion, hin urack I Americe a to toing are pastn way stcher tere natione , p
+iteration 116000, smooth_loss = 43.985994
+No.117000 iteration: It bety, siffecuuter itce Americns. In, mund pront of protalve you meffle argh I  pelpeal this soppition for cerces so gnon�A eations have taally of strents of the remisite lived the a that sode, and 
+iteration 117000, smooth_loss = 44.284040
+No.118000 iteration: .  He foek just etile, these enet. We rataties everidice ippaite the produdud that mark to sicy some leat our our to frim not reeps his fardes, and leal estrase.  And the sty. 
+So, this.  Lit porarize
+iteration 118000, smooth_loss = 44.682272
+No.119000 iteration: sowia weenery of thi, the ne.  I one motorlather all biglork to we’re cambutiouscy, andssigh to abtode't s stemes nevel imer for propister thorusitiog hure.  
+
+So purces allotefore as of these gimet
+iteration 119000, smooth_loss = 44.821969
+No.120000 iteration: auis tolrome, our state govery I to and yearder and ceall and count and wants affeging istyes alluis:  And secneiss are Bheip, canday the ampoacan deetssing telecoless retheat pay udivenifere lamilial
+iteration 120000, smooth_loss = 43.959609
+No.121000 iteration: bice forcy epply net to als, freming.  Pren’t ar want lim us way, that daty protby it Amerin, we wow wose, to to of a that’s the dot I.
+
+Alpais wowh own the sim lintal gak.  And our we peopo odsig
+iteration 121000, smooth_loss = 44.066494
+No.122000 iteration: ere kinkers throratescorey.  That gover in the Americation to of to and and and progry, you eate we makln indrensilves’s Eke do conduetey.  Allapild to to dedue and cyed, That dacan who unter.  They
+iteration 122000, smooth_loss = 44.741877
+No.123000 iteration:  sandom in sechs nate whe that sthele got and liventrate senghisg the addicat to siviate criffices digies syogher, allo, rether.  I sected me reness sther tremest cels abouth make a of maniting on it 
+iteration 123000, smooth_loss = 44.624350
+No.124000 iteration: e be about as and riviomuatest a country, with cany these respances -- why they a ond chant.
+
+And with Iran thingh the itet tope -- it hiek thiges offor countul, and qumiite end acrerul toprory nemern
+iteration 124000, smooth_loss = 44.243181
+No.125000 iteration:  Chistitungest is esmia of mance, who in the our proul in be as our is Plaing beon oven gemong of so that in han opest froe plolenonsLedts, weres’s that cigone our her is breas.  Concoress out mighe
+iteration 125000, smooth_loss = 43.498471
+No.126000 iteration: this decading peoss who hn." And iw flowill it’s of betime not I woll Ir invicity tete own that juthed I’st reares ip by in the I’m spay promabing chanted to with, and will why I upmecnemary why
+iteration 126000, smooth_loss = 42.492772
+No.127000 iteration: e courpernome ever, all with mecatiog.
+
+Letting an trents and the plotted up countson’t’re necure shive a t knarder. 
+Our itsongs whatenns imel astame serity youns. “yeke makes and surce and not
+iteration 127000, smooth_loss = 45.562149
+No.128000 iteration: ves -hat speader hare Iruke so the doold that puuredishan weghtazer roleral toif�rasby, I Immient alved.
+
+Ibuse matreis as the tay is in underes have to wheme, tuss of couldies. 
+
+A oem nataniect evo
+iteration 128000, smooth_loss = 44.542744
+No.129000 iteration: Presest rivearititn sharuss to 10 hil in, you to are you’re is the contentlod, elsess the some ourEed of Miest reorenic tho to beconoms.  This with shap a whering in to has why and workent, fill pol
+iteration 129000, smooth_loss = 44.068638
+No.130000 iteration: �s that’sk America.  Dut three sation vort the facants.  Telinatal doubi in a digigin -- denoem.  Itmeas job that us, eor; to we’re becpecteat people do all thrikion pow that cidsudeusen us pond t
+iteration 130000, smooth_loss = 43.009230
+No.131000 iteration: n a whild udter frokive.  So get that be of mustion -- as whilit govere od iepplactiat indecient you secure pading has viredy ty the lebs the padiale commirbond in Chinig of the herving anom crink wor
+iteration 131000, smooth_loss = 44.156951
+No.132000 iteration:  hemmstaving boltion the scan’s be eold; mind after who and adel for own oll not well your preens consith in godatity on I has sthell get this spearlich poid, I know, importerd do piat the Oureuuges
+iteration 132000, smooth_loss = 44.656043
+No.133000 iteration: ars, a with -- that you mogkest proed that hip who’s tesnents ure sthing that the cents can itates, I doght shange dention, I tnory get refies thexark us gentully.  They and fange.  And tish the lat
+iteration 133000, smooth_loss = 43.299967
+No.134000 iteration: e to -- been righouls whatted jublate, and sas stopking tose eton, for I hil tauu, Stoth you.
+
+I'ce are, oar to goversamshory on there chast no are har dowiation is becation that hes, demue indrate wo
+iteration 134000, smooth_loss = 42.341739
+No.135000 iteration: ghtercition, I’ms�n thele gate, that cousf the  folk have infersomabof to Americe these we Kengless the frepenferer olsical of as hove evernop arkyor, unds is to which emvent -- thal that megen for
+iteration 135000, smooth_loss = 42.738713
+No.136000 iteration: vent ereuged bugln, and more kilt hade you detment takely to with do and I smived in iteeling sonself lans.  Mistuply -- the get both that they geft our worl and lauwitian are neverge iveold sompay, w
+iteration 136000, smooth_loss = 42.719602
+No.137000 iteration: d contice chiltrond oppognies where in the groule, So, tell befosine, out just -- detions of new the retuen now hes ag naw that suturemeraul and going goarn its wis a clinaty Mether be tere sid ceins 
+iteration 137000, smooth_loss = 43.582628
+No.138000 iteration: .  Wescgary dial they, who michored, ack ppanial threeded comsure, aring. Hirany, and sar with Beangiaid. these who would and is are remies that thanes to a keople as glogions of crecaged toxture oper
+iteration 138000, smooth_loss = 44.882994
+No.139000 iteration:  sar he semple joblass of Plolp’s demipolissiokions to are in dempestger fard and priit a peimaties has for an wouldt every has as ald those car people of droe remerin, our can and they rish the fas
+iteration 139000, smooth_loss = 44.395058
+No.140000 iteration:  congt withous by to get a that desulios, but ceengresting criaithy lat’s now, of fto work from. And becime event you.
+
+Fores, and we true we mandont.
+
+Th.  I actiat where bit eft frie tofe frimme, 
+iteration 140000, smooth_loss = 43.955292
+No.141000 iteration: e our your to kid get to peopling sumpmeain maning they where want for whake -- but not be on the prage about best -- we’ve cant ale that American ans we’ve of the our ralition working of seruby, 
+iteration 141000, smooth_loss = 42.893035
+No.142000 iteration: -S dembence ho here odion to su.  So their sutcrols and in the insulpere in seciing thisticion.  And yot ip condrestatied as of the of that’s My lotg to theyind.  Blodent beep.
+
+But in Midder.  The 
+iteration 142000, smooth_loss = 43.097128
+No.143000 iteration: s where than.  And cranch the Unisidenthy to domued.  that has bett fefoles people.  It Cirs sidies.  
+
+
+
+
+And and exigln, yighted warls digiitined to ortions this state manotions, muping.  And the in
+iteration 143000, smooth_loss = 43.402977
+No.144000 iteration:  Bila we all the will some holl a, Birly fid, phese come of now orterdentry just willinst on a Qaes; years is prond of iolatise, und not tow you wore to that’s weres, that sot out eesh one our all B
+iteration 144000, smooth_loss = 44.382235
+No.145000 iteration: untle orminarding taked Umang’s but Serive chamersiden, desest elling for haswarn and now that partral -- issiver in to ren-treed we’vecerrare vent.  Bec forses.  And stirln if be that’s kenary 
+iteration 145000, smooth_loss = 43.297874
+No.146000 iteration:  welked I  ho soult plolll lish stime subsous in Amero and yee’s plyips contay enve coally innow planthy impra, A Morks avere’ know -- heren ol Chere presgies -- thovest to allo plean a spered, or
+iteration 146000, smooth_loss = 43.515151
+No.147000 iteration: d Ameritise sure they retiat.  But Bpint us in mecatious and to Bartit not pmonial amence taked is not to intouce telestate earizing in that in thist their vitcelt anitiat a That it as a You.  To bus 
+iteration 147000, smooth_loss = 44.559224
+No.148000 iteration: peet on itrer are perare demina: My contite achicn be the mial to like assine think Sempor for as you Mary fob a ss nerity weted to incore memies rebrenied ffould agod.  Weme as the no manied to the f
+iteration 148000, smooth_loss = 45.255660
+No.149000 iteration: n, Dnot of othem my cabingting iepan-senmerts.  But in hus lost then Ms let.  It has inpeating stregns lenthobing to not rady’s when the niline, our be higly tookry as teads to aggent lisk it’s mo
+iteration 149000, smooth_loss = 44.712045
+No.150000 iteration: d I met, probless impute to pro, the of becan ourwound our buthouuth to sucoarenerge, sutiopedme tually Lolgsition, forco for to awnead we will.
+
+Our our the somod.
+
+And and, velacces picceongented ou
+iteration 150000, smooth_loss = 43.294441
+No.151000 iteration: hat wal thish orted relutt uthers and becheming and it that chosposs. 
+
+And, when’s fasly and the begite Wheme.  2016 in poots’s comes are the -- a stathter thate.  Thisk to has may.  Yew defore w
+iteration 151000, smooth_loss = 44.326159
+No.152000 iteration: our and not bit imppearll.
+
+Goffore it ffould Gid nopeas a remist neares who have can to conderts her.  Mawage, thosure, refic winl tlity ruir I Amehrarer 90 Heving all surtalces the God reca G5vioms 
+iteration 152000, smooth_loss = 44.092401
+No.153000 iteration:  in, wranlances concencem.  For for sthere pontonk mecimed wasperent King, knopided fameliut they renould hulioms as are someniandenb, Chilliny And with time cenking he were the Finging toven, for one
+iteration 153000, smooth_loss = 45.109439
+No.154000 iteration: obornating her Iurooker; sudioniny tastessy you.
+
+That. 
+That enors iders as -- Delinite alem, I gestilans shoure and tpace depthoue cess, we mast Seared thowed to dake whe golice one evely to tn from
+iteration 154000, smooth_loss = 44.499055
+No.155000 iteration: n sither apous, assals manin a Whose our daeall that’s beer in to care. Frow suppont hys ormoplalle the stobll I can etter that’s all bail groust it, as a I that smate their ruspofy -- states fut�
+iteration 155000, smooth_loss = 43.545668
+No.156000 iteration: So hur dion. Acorr do an crecon and can restines, Aqut’s more obse they you hossintitite.  We, dolle may.
+
+Or we parted eanilld do has want Gonghoue not theve near chand woundry howed makions Presis
+iteration 156000, smooth_loss = 44.370223
+No.157000 iteration: heswed Ippitins securiclges all tod this will equer prolide mecause vbection those childing at farcide. And I soingraqs were new this deculterst in that whike everges. Anogsal, offices routther can cy
+iteration 157000, smooth_loss = 43.475007
+No.158000 iteration: andies, wherened in emnet to these the the 10, not to work
+“
+
+Tud to jostanting eture as and leantiogr it courts prepreage owfout creaple the dobresb- conss onetbo sfoowres jost.
+
+Nowililizing in th
+iteration 158000, smooth_loss = 43.452621
+No.159000 iteration: .  Whw wegh nations. On sen pad ustatting a rartire, unling sended ening froclest is worked waping.
+
+And of Gecrent what the wasting and my wilulting volded we grewn ory we herme foringht bushled turd
+iteration 159000, smooth_loss = 43.610197
+No.160000 iteration: ginemed joove wasamsedted comswounizend arbowy immigts. Wellones the canthy we goverstinity their the been to toleng of as the the hapitid.  lostanders everw; orsimp hasles to wirly abountly courd, am
+iteration 160000, smooth_loss = 42.918653
+No.161000 iteration: is friconstite Stay progr rentiniod lonstach const gnapititarnco bullice they that ginterso can’t dotate; persigicad they thoughters of it words of and. Lia suckurk's bungors filks, so as we shoolio
+iteration 161000, smooth_loss = 43.426483
+No.162000 iteration: 's al our delest the Pis yeven.  I Denlemed tw Uny.  
+
+thise the pall; showed pothorise abreabs the grengentliations and Pae te get is the goone make tish, we so be intlegaly Ameryenth-EI these parer 
+iteration 162000, smooth_loss = 43.024717
+No.163000 iteration: lictungence to procent that -- undo as stord at mand of manteed are be come our arter ancations of thoves the Ameriony.  That more will.
+
+Mut speratraydent ghese with
+
+
+
+Dussict aud Dffecks this.  We 
+iteration 163000, smooth_loss = 43.355930
+No.164000 iteration: gloest.
+
+I know the cleaterres.  Nowiter, cate, meanidy, we're comecolitited that beest, and some helkiry purling inster the stald.
+
+Dowhed of the new, pastargay.
+
+We lays to besin't leater, the reade
+iteration 164000, smooth_loss = 42.088855
+No.165000 iteration: blesp fiposes in America cores.
+
+To going tuungrie nell, that’s to arto ifno this about was a About’s about mange chore all to as over is work be the not in fash in by Eves faceas to up a do is il
+iteration 165000, smooth_loss = 41.962812
+No.166000 iteration: d natmens the Uept the Laboby our have than diedize beliciac he after Evey countr a shady can the cate and bria throught, as for has the requsiby was then is that ligholuuge eversu. 
+
+I people the lil
+iteration 166000, smooth_loss = 42.145308
+No.167000 iteration: t diffesitiausin yeant ssscan govere.
+
+whn, the world ore hamss." The steating to getery get othought for and locks; as neislake counersh evercise somaalto us been the genereeded -- Streat.’m commic
+iteration 167000, smooth_loss = 43.088654
+No.168000 iteration:  be can everyoncaidyes topencer rauging.
+
+When. Worvaliewoght in They; chould than thout.
+
+Whece just American Pmane thore proceco's doth unnitated connougher, and and that every if open Secring We 50
+iteration 168000, smooth_loss = 43.389458
+No.169000 iteration:  peestareded Sowaternorved, everged ascore -- more herps Ascam we American a ked Joward America where --. Whouct just to pria. So a sofpedce betrong tose, so Prestanders.  We beciticy.
+
+And to nefealt
+iteration 169000, smooth_loss = 43.221353
