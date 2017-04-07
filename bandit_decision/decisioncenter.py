@@ -11,9 +11,11 @@ class BaseDecisionCenter(object):
 		self.timestamp = defaultdict(int) # key: taskId
 		self.impCount = defaultdict(int)
 		self.clkCount = defaultdict(int)
+		self.reset_num = config_map.get('reset_num',None)
 
     # return format: decision, source_type
 	def decide(self, task, context, default_decision):
+		self.timestamp[task.task_id] += 1
 		return default_decision,'default_decision'
 
 	def update_model(self, task, context, decision, log_type, source_type):
@@ -27,7 +29,7 @@ class NaiveDecisionCenter(BaseDecisionCenter):
 		self.num_to_explore = config_map.get('num_to_explore',100)
 
 	def decide(self, task, context, default_decision):
-		self.timestamp[task.task_id] += 1
+		BaseDecisionCenter.decide(self, task, context, default_decision)
 		if self.timestamp[task.task_id] < self.num_to_explore:
 			return random.choice(task.decision_list),'random'
 		else:
@@ -67,7 +69,8 @@ class EpsilonGreedyDecisionCenter(BaseDecisionCenter):
 
 	def decide(self, task, context, default_decision):
 		contextStr = '|'.join(context)
-		self.timestamp[task.task_id] += 1
+		BaseDecisionCenter.decide(self, task, context, default_decision)
+		# Optimize: reset for a round
 		if self.epsilon_decay and self.epsilon > self.min_epsilon:
 			self.epsilon -= self.decay_step
 		r = random.random()
@@ -82,8 +85,11 @@ class EpsilonGreedyDecisionCenter(BaseDecisionCenter):
 		candidate = {}
 		for choice in task.decision_list:
 			k = str(task.task_id)+"_"+contextStr+"_"+str(choice)
-			candidate[choice] = 1.0*self.clkCount[k]/self.impCount[k] if self.impCount[k]>0 else 0
+			a = self.impCount[k] + 1
+			b = self.clkCount[k] + 1
+			candidate[choice] = 1.0*b/a
 		best_choice = max(candidate.iteritems(), key=operator.itemgetter(1))[0]
+		#print contextStr, candidate, best_choice
 		if candidate[best_choice] > 0:
 			return best_choice
 		else: 
@@ -94,49 +100,13 @@ class EpsilonGreedyDecisionCenter(BaseDecisionCenter):
 			return
 		contextStr = '|'.join(context)
 		update_key = str(task.task_id)+"_"+contextStr+"_"+str(decision)
+		if self.reset_num != None and self.timestamp[task.task_id] % self.reset_num == 0:
+			self.impCount = defaultdict(int)
+			self.clkCount = defaultdict(int)
 		if log_type == 'imp':
 			self.impCount[update_key] += 1
 		if log_type == 'clk':
 			self.clkCount[update_key] += 1
-
-
-def multi_result_random(dist,itemSplitor,kvSplitor):
-    # dist like 'a:0.1^b:0.2^c:0.7', return a/b/c
-    choice_probs = dist.split(itemSplitor)
-    elevation = 0.0
-    choice_queue = []
-    total_volumn = 1e-6 + sum([float(choice_prob.split(kvSplitor)[1]) for choice_prob in choice_probs])
-    for choice_prob in choice_probs:
-        kv = choice_prob.split(kvSplitor)
-        if len(kv) < 2:
-            continue
-        choice,prob = kv[0],float(kv[1])/total_volumn
-        choice_queue.append((elevation + prob,choice))
-        elevation += prob
-    point = random.random()
-    for choice in choice_queue:
-        if choice[0] >= point:
-            return choice[1]
-    return choice_queue[-1][1]
-
-class SoftEpsilonGreedyDecisionCenter(EpsilonGreedyDecisionCenter):
-
-	def __init__(self, config_map):
-		EpsilonGreedyDecisionCenter.__init__(self, config_map)
-		self.name = 'SoftEpsilonGreedyDecisionCenter'
-
-	def get_best_chioce(self, task, contextStr, default_decision):
-		candidate = {}
-		candidateProbability = []
-		for choice in task.decision_list:
-			k = str(task.task_id)+"_"+contextStr+"_"+str(choice)
-			candidate[choice] = 1.0*self.clkCount[k]/self.impCount[k] if self.impCount[k]>0 else 0
-			candidateProbability.append(str(choice)+":"+str(candidate[choice]))
-		best_choice = int(multi_result_random('^'.join(candidateProbability),'^',':'))
-		if candidate[best_choice] > 0:
-			return best_choice
-		else: 
-			return default_decision
 
 class UCBNormalDecisionCenter(BaseDecisionCenter):
 
@@ -146,13 +116,16 @@ class UCBNormalDecisionCenter(BaseDecisionCenter):
 
     # return format: decision, source_type
 	def decide(self, task, context, default_decision):
+		BaseDecisionCenter.decide(self, task, context, default_decision)
 		candidate = {}
 		contextStr = '|'.join(context)
 		for choice in task.decision_list:
 			k = str(task.task_id)+"_"+contextStr+"_"+str(choice)
-			estimated_mean = 1.0*self.clkCount[k]/self.impCount[k] if self.impCount[k]>0 else 0
+			a = self.impCount[k] + 1
+			b = self.clkCount[k] + 1
+			estimated_mean = 1.0*min(b/a,1) 
 			estimated_variance = estimated_mean - estimated_mean**2
-			candidate[choice] = estimated_mean + 1.96*np.sqrt(estimated_variance/(self.impCount[k]+1e-6))
+			candidate[choice] = estimated_mean + 1.96*np.sqrt(estimated_variance/a)
 		best_choice = max(candidate.iteritems(), key=operator.itemgetter(1))[0]
 		if candidate[best_choice] > 0:
 			return best_choice,'best_choice'
@@ -162,6 +135,9 @@ class UCBNormalDecisionCenter(BaseDecisionCenter):
 	def update_model(self, task, context, decision, log_type, source_type):
 		contextStr = '|'.join(context)
 		update_key = str(task.task_id)+"_"+contextStr+"_"+str(decision)
+		if self.reset_num != None and self.timestamp[task.task_id] % self.reset_num == 0:
+			self.impCount = defaultdict(int)
+			self.clkCount = defaultdict(int)
 		if log_type == 'imp':
 			self.impCount[update_key] += 1
 		if log_type == 'clk':
@@ -176,6 +152,7 @@ class ThompsonSamplingDecisionCenter(BaseDecisionCenter):
 
     # return format: decision, source_type
 	def decide(self, task, context, default_decision):
+		BaseDecisionCenter.decide(self, task, context, default_decision)
 		candidate = {}
 		contextStr = '|'.join(context)
 		clk = []
@@ -184,7 +161,7 @@ class ThompsonSamplingDecisionCenter(BaseDecisionCenter):
 		for choice in task.decision_list:
 			k = str(task.task_id)+"_"+contextStr+"_"+str(choice)
 			clk.append(1.0+self.clkCount[k])
-			fail.append(1.0+self.impCount[k]-self.clkCount[k])
+			fail.append(1.0+max(self.impCount[k]-self.clkCount[k],0))
 			choices.append(choice)
 		best_choice = choices[np.argmax( np.random.beta(np.array(clk), np.array(fail)) )]
 		if best_choice != None:
@@ -195,6 +172,9 @@ class ThompsonSamplingDecisionCenter(BaseDecisionCenter):
 	def update_model(self, task, context, decision, log_type, source_type):
 		contextStr = '|'.join(context)
 		update_key = str(task.task_id)+"_"+contextStr+"_"+str(decision)
+		if self.reset_num != None and self.timestamp[task.task_id] % self.reset_num == 0:
+			self.impCount = defaultdict(int)
+			self.clkCount = defaultdict(int)
 		if log_type == 'imp':
 			self.impCount[update_key] += 1
 		if log_type == 'clk':

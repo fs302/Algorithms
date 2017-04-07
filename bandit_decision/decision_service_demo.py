@@ -48,18 +48,20 @@ for line in request_file.readlines():
 		break
 request_file.close()
 
-config_map1 = {'num_to_explore':1000}
+config_map1 = {'num_to_explore':10000}
 naiveDecisionCenter = NaiveDecisionCenter(config_map1)
 naive_precision,naive_regret = run_experiment(samples, task, naiveDecisionCenter)
 
-config_map2 = {'num_to_explore':100, 'epsilon':0.1, 'epsilon_decay': True, 'decay_step': 0.001, 'min_epsilon': 0.001}
+config_map2 = {'num_to_explore':1000, 'epsilon':0.5, 'epsilon_decay': True, 'decay_step': 0.001, 'min_epsilon': 0.1, 'reset_num': 10000}
 epsilonGreedyDecisionCenter = EpsilonGreedyDecisionCenter(config_map2)
 epsilon_precision, epsilon_regret = run_experiment(samples, task, epsilonGreedyDecisionCenter)
 
-ucbNormalDecisionCenter = UCBNormalDecisionCenter(None)
+config_map3 = {'reset_num': 10000}
+ucbNormalDecisionCenter = UCBNormalDecisionCenter(config_map3)
 ucb_precision, ucb_regret = run_experiment(samples, task, ucbNormalDecisionCenter)
 
-thompsonSamplingDecisionCenter = ThompsonSamplingDecisionCenter(None)
+config_map4 = {'reset_num': 10000}
+thompsonSamplingDecisionCenter = ThompsonSamplingDecisionCenter(config_map4)
 tps_precision, tps_regret = run_experiment(samples, task, thompsonSamplingDecisionCenter)
 
 x = range(len(naive_precision))
@@ -68,5 +70,7 @@ plt.loglog(x,np.array(naive_precision),\
 	x,np.array(ucb_precision),\
 	x,np.array(tps_precision) )
 plt.legend(('Naive','Epsilon-Greedy','UCB-Normal','ThompsonSampling'),loc='lower right')
+plt.xlabel('timestamp')
+plt.ylabel('avg CTR')
 plt.show()
 
