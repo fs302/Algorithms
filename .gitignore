@@ -1,0 +1,5 @@
+neural_transfer/models/
+*.pth
+.DS_Store
+.ipynb_checkpoints
+.gitignore
