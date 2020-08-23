@@ -66,11 +66,11 @@ def run(Sigma,LatentMu,k,N,iter_num,Epsilon):
         Old_Mu = copy.deepcopy(Mu)
         e_step(Sigma,k,N)
         m_step(k,N)
-        print "第%d次迭代均值 %s" % (i,strw(Mu))
+        print "第%d次迭代均值 %s" % (i,str(Mu))
         if sum(abs(Mu-Old_Mu)) < Epsilon:
             break
 if __name__ == '__main__':
     LatentMu = [40,20,100]
-    run(6,LatentMu,len(LatentMu),10000,10000,0.0001)
+    run(6,LatentMu,len(LatentMu),10000,100,0.0001)
     plt.hist(X[0,:],50)
     plt.show()
